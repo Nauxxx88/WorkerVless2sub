@@ -20,7 +20,7 @@ let addressesnotls = [
 	//'www.visa.com.sg#官方优选域名',
 	//'www.wto.org:8080#官方优选域名',
 	//'www.who.int:8880#官方优选域名',
-	'time.cloudflare.com':80#WODE',
+	'time.cloudflare.com:80#WODE',
 'shopify.com:80#WODE',
 'time.is:80#WODE',
 'icook.hk:80#WODE',
